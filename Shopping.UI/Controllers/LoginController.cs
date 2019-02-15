@@ -11,7 +11,7 @@ namespace Shopping.UI.Controllers
 {
     //
     //emre küntaş
-   
+   //aa
     public class LoginController : Controller
     {
         // GET: Login
