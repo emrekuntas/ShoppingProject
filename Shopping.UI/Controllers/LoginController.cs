@@ -9,6 +9,7 @@ using static Shopping.BL.BussinessManager;
 
 namespace Shopping.UI.Controllers
 {
+    //emre küntaş
     /// <summary>
     /// 
     /// </summary>
